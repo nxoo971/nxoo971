@@ -26,8 +26,10 @@
 				}
 				.container {
 					display: flex;
+					flex-direction: column;
 					justify-content = center;
 					text-align = center;
+					border-radius: 8px;
 				}
                 .bg {
 					background: linear-gradient(-45deg, #E1FFB1, #C7F2A4, #B6E388);
@@ -42,7 +44,7 @@
                     color: white;
 				}
 			</style>
-			<div class="container"><h1>42 Student</h1></div>
+			<div class="container"><h1>42 Student</h1><p>jewancti</p></div>
 		</div>
 	</foreignObject>
 </svg>
