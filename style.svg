@@ -53,15 +53,6 @@
 					margin-top: -30px;
 					font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 				}
-				p::before {
-					content: 'jewancti';
-					background-image: url(./image.gif);
-					background-clip: text;
-					background-size: cover;
-					-webkit-background-clip: text;
-					color: transparent;
-					width: 200px;
-				}
 			</style>
 			<div class="first">
 				<div class="container bg"><h1>42's <i>Student</i></h1><p></p></div>
