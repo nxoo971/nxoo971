@@ -66,15 +66,10 @@
 			<div class="first">
 				<div class="container bg"><h1>42's <i>Student</i></h1><p></p></div>
 				<div>
-					<p align="center"> <a href="https://profile.intra.42.fr/users/jewancti"><img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/stats?cursusId=21&coalitionId=48" alt="jewancti's 42 stats" /></a></p>
-						<hr>
-						<h1 align="center">42 Projects:</h1>
-						<h1 align="center">
-						<a href="https://github.com/nxoo971/libft">LIBFT  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2868913" alt="jewancti's 42 Libft Score" /></a>
-						<a href="https://github.com/nxoo971/ft_printf">FT_PRINTF  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871848" alt="jewancti's 42 get_next_line Score" /></a>
-					</p>
-					<a href="https://github.com/nxoo971/get_next_line">GET_NEXT_LINE  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871848" alt="jewancti's 42 get_next_line Score" /></a>
-					<a href="https://github.com/nxoo971/born2beroot">BORN2BEROOT  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871849" alt="jewancti's 42 Born2beroot Score" /></a>
+					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/stats?cursusId=21&coalitionId=48" alt="jewancti's 42 stats" /></a>
+					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2868601" alt="jewancti's 42 Libft Score" /></a>
+					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2871549" alt="jewancti's 42 get_next_line Score" /></a>
+					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2875558" alt="jewancti's 42 Born2beroot Score" /></a>
 				</div>
 			</div>
 		</div>
