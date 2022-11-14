@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div class="bg" xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
 					0% {
@@ -26,28 +26,28 @@
 				}
 				.container {
 					width: 90%;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
 					border-radius: 8px;
 				}
-                .bg {
+				.bg {
 					background: linear-gradient(-45deg, #E1FFB1, #C7F2A4, #B6E388);
-                    animation: color 10s ease infinite;
-                }
+					animation: color 10s ease infinite;
+				}
 				h1 {
-					width: 250px;
-					margin: 0 auto;
 					font-size: 50px;
 					line-height: 1.3;
-					animation: rotate ease-in-out 3s infinite alternate;
-                    color: #B6E388;
+					animation: rotate ease-in-out 6s infinite alternate;
+					color: #B6E388;
 				}
 				p {
 					color: #FCFFB2;
 					font-size: 30px;
-					width: 250px;
-					margin: 0 auto;
+					font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 				}
 			</style>
-			<div class="container"><h1>42 Student</h1><p>jewancti</p></div>
+			<div class="container bg"><h1>42 Student</h1><p>jewancti</p></div>
 		</div>
 	</foreignObject>
 </svg>
