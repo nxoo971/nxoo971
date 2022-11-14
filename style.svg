@@ -14,41 +14,69 @@
 					0% {
 						background-position: 0% 50%;
 					}
-					30% {
+					50% {
 						background-position: 100% 50%;
-					}
-					60% {
-						background-position: 25% 75%;
 					}
 					100% {
 						background-position: 0% 50%;
 					}
 				}
-				.container {
-					width: 90%;
-					margin: 0 auto;
+				.first {
 					display: flex;
 					flex-direction: column;
-					align-items: center;
+				}
+				.container {
+					width: 400px;
+					height: 120px;
+					margin: 0 auto;
+					text-align: center;
 					border-radius: 8px;
 				}
 				.bg {
 					background: linear-gradient(-45deg, #E1FFB1, #C7F2A4, #B6E388);
+					background-size: 400% 600%;
 					animation: color 10s ease infinite;
 				}
 				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					animation: rotate ease-in-out 6s infinite alternate;
-					color: #B6E388;
+					font-family: Verdana, Geneva, Tahoma, sans-serif;
+					font-size: 40px;
+					line-height: 1.9;
+					animation: rotate ease-in-out 10s infinite alternate;
+					color: #fbfdfa;
+				}
+				h1 i {
+					color: #FCFFB2;
 				}
 				p {
 					color: #FCFFB2;
-					font-size: 30px;
-					font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+					font-size: 35px;
+					margin-top: -30px;
+					font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+				}
+				p::before {
+					content: 'jewancti';
+					background-image: url(./image.gif);
+					background-clip: text;
+					background-size: cover;
+					-webkit-background-clip: text;
+					color: transparent;
+					width: 200px;
 				}
 			</style>
-			<div class="container bg"><h1>42 Student</h1><p>jewancti</p></div>
+			<div class="first">
+				<div class="container bg"><h1>42's <i>Student</i></h1><p></p></div>
+				<div>
+					<p align="center"> <a href="https://profile.intra.42.fr/users/jewancti"><img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/stats?cursusId=21&coalitionId=48" alt="jewancti's 42 stats" /></a></p>
+						<hr>
+						<h1 align="center">42 Projects:</h1>
+						<h1 align="center">
+						<a href="https://github.com/nxoo971/libft">LIBFT  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2868913" alt="jewancti's 42 Libft Score" /></a>
+						<a href="https://github.com/nxoo971/ft_printf">FT_PRINTF  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871848" alt="jewancti's 42 get_next_line Score" /></a>
+					</p>
+					<a href="https://github.com/nxoo971/get_next_line">GET_NEXT_LINE  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871848" alt="jewancti's 42 get_next_line Score" /></a>
+					<a href="https://github.com/nxoo971/born2beroot">BORN2BEROOT  <img src="https://badge42.vercel.app/api/v2/clabsaoey00110fjkilpbo5ke/project/2871849" alt="jewancti's 42 Born2beroot Score" /></a>
+				</div>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
