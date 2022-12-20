@@ -14,6 +14,6 @@
 	Philosophers: <img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2914779" alt="jewancti's 42 Philosophers Score" />
 <br>
 	<h1>Exam</h1>
-	<img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2882078" alt="jewancti's 42 Exam Rank 02 Score" /><br>
-	<img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2916699" alt="jewancti's 42 Exam Rank 03 Score" /><br>
+	Rank 02: <img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2882078" alt="jewancti's 42 Exam Rank 02 Score" /><br>
+	Rank 03: <img src="https://badge42.vercel.app/api/v2/clad9gqo000250fjpk6o1z16e/project/2916699" alt="jewancti's 42 Exam Rank 03 Score" /><br>
 </div>
