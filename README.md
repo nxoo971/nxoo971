@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**nxoo971/nxoo971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Salut, je suis Jean-Marc, un passionné de développement de logiciels avec une expertise dans plusieurs langages et technologies. Mon objectif est de créer des solutions innovantes et de contribuer à des projets qui ont un impact positif.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+- Langages de programmation :
+  - C/C++
+  - C#
+  - HTML/CSS
+  - PHP
+  - JavaScript
+
+- Frameworks :
+  - Symfony
+
+- Base de données :
+  - MySQL
